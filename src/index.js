@@ -1,4 +1,5 @@
 //https://blog.lftechnology.com/implementing-the-observer-pattern-in-javascript-198ccb62124d
+//https://hackernoon.com/observer-vs-pub-sub-pattern-50d3b27f838c
 class Subject {
   constructor(state) {
     this.state = state;
